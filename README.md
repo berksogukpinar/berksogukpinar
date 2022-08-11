@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">I am a Mobile Developer at Diniz Adient</h3>
+<h3 align="center">I am a Software Engineer at Diniz Adient</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
